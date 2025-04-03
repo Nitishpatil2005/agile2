@@ -1,0 +1,17 @@
+#box{
+    height:900px;
+    width:900px;
+    display: flex;
+    background-color: bisque;
+    margin: auto;
+    border: 2px solid black;
+    
+}
+
+#head{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+    font-weight: bolder;
+    font-size: 20px;
+}
